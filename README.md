@@ -4,7 +4,9 @@ oscp notes and tips
 ## Content
 
 [My kali config for oscp(arm)](./MyKaliForOSCP.md)
+
 [lin-basic.md](./1.lin-basic.md)
+
 [win-basic.md](./1.win-basic.md)
 
 [BOF.md](./2.BOF.md)
