@@ -5,37 +5,39 @@ oscp notes and tips
 
 [My kali config for oscp(arm)](./MyKaliForOSCP.md)
 
-[lin-basic.md](./1.lin-basic.md)
+[OSCP tips](./OSCPtips.md)
 
-[win-basic.md](./1.win-basic.md)
+[lin-basic](./1.lin-basic.md)
 
-[BOF.md](./2.BOF.md)
+[win-basic](./1.win-basic.md)
 
-[Recon.md](./3-Recon.md)
+[BOF](./2.BOF.md)
 
-[WebAttack.md](./4-WebAttack.md)
+[Recon](./3-Recon.md)
 
-[ExploitShell.md](./5-ExploitShell.md)
+[WebAttack](./4-WebAttack.md)
 
-[WinPrivesc.md](./6-WinPrivesc.md)
+[ExploitShell](./5-ExploitShell.md)
 
-[linuxPrivesc.md](./6-linuxPrivesc.md)
+[WinPrivesc](./6-WinPrivesc.md)
 
-[ActiveDirectory.md](./7-ActiveDirectory.md)
+[linuxPrivesc](./6-linuxPrivesc.md)
 
-[CrackCipher.md](./8-CrackCipher.md)
+[ActiveDirectory](./7-ActiveDirectory.md)
 
-[AntiVirusEvasion.md](./9-AntiVirusEvasion.md)
+[CrackCipher](./8-CrackCipher.md)
 
-[PTframework.md](./9-PTframework.md)
+[AntiVirusEvasion](./9-AntiVirusEvasion.md)
 
-[PostExploitaion.md](./9-PostExploitaion.md)
+[PTframework](./9-PTframework.md)
+
+[PostExploitaion](./9-PostExploitaion.md)
 
 
 ## 说明
 1. 笔记为个人学习、认证过程中的记录，命令、说明来源于平时搜集学习的资料，使用前务必先验证，以免误导。
 2. 笔记中部分技术点可能记录相关靶机，类似pg提示。
-3. 
+
 
 ## todo
 1. 记录校验
