@@ -41,14 +41,6 @@ oscp notes and tips
 3. htb writeup 有些不太全，供参考。
 4. tips 部分是他人的分享，部分是个人练习总结的经验。
 
-
-## todo
-1. 记录校验
-2. 添加 my kali config for oscp
-3. 添加tips
-4. 添加htb writeup
-5. 添加bof scripts
-
 ****** 
 
 **声明**：仅做技术分享与交流，他用后果自负。
